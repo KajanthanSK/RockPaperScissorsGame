@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images.qrc</file>
+        <file>Image/Paper.gif</file>
+        <file>Image/Rock.gif</file>
+        <file>Image/Scissor.gif</file>
+        <file>Image/versus.gif</file>
+        <file>Image/Output.gif</file>
+        <file>Image/OutputPng.png</file>
+        <file>Image/Machine.png</file>
+        <file>Image/Friend.png</file>
+    </qresource>
+</RCC>
